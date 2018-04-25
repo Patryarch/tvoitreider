@@ -1,0 +1,1 @@
+<?php echo file_get_contents("https://sslecal2.forexprostools.com?ecoDayBackground=%23ffffff&defaultFont=%23000000&borderColor=%23dedede&columns=exc_flags,exc_currency,exc_actual,exc_forecast,exc_previous&features=datepicker,timezone&countries=25,4,17,39,72,26,10,6,37,43,56,36,5,61,22,12,35&calType=week&timeZone=18&lang=7"); ?>

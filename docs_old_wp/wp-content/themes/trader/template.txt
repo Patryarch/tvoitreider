@@ -1,0 +1,11 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<meta http-equiv="«Content-Type»" content="«text/html;" charset="utf-8»" />
+	
+	<!-- Менять ссылку на необходимую в разделе href= , важно не потерять ковычки по обе стороны, пример "http://www.google.com" -->
+	<a href="#" style="width: 100%;height: 100%;max-width: 600px;max-height: 375px;">
+		<!-- Менять ссылку на картинку в разделе src=, так же нужно не потерять ковычки -->
+		<img src="https://lh3.googleusercontent.com/R-wZzBPpX8jwa--fFoE7MWsgRl6DCPmGF9cqHi1eziyGNVKwCHzUK6Wnlj9KYFzDX5VSJD3xzkuxr2DZmyzf=w1920-h973">
+	</a>
+
+
+    
